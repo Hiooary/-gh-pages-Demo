@@ -4,4 +4,6 @@
 <br>1.当然是申请账号，新建项目
 <br>2.新建之后，点击进去，然后Settings
 <br>3.选择Launch automatic page generator进入下一个界面选择主题
-<br>4.选择主题后，可以Publish page
+<br>4.选择主题后，可以Publish，
+<br>5.好像也可以自己编写，然后Continue layout，但是我试了一下，没有怎么解析出来
+<br>PS:哎呀，其实我不是很会，还没研究出来⊙﹏⊙b汗，配图也不会，容我再研究 研究再来更新吧
