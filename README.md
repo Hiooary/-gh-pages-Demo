@@ -34,7 +34,5 @@
 <br>PS:今天好歹会配图了，也会托管项目了，将图片放进仓库后，再链接
 <br>链接格式： 
 <br>
-      ![描述文字](https://github.com/ 你的用户名/你的项目名/blob/分支名/存放图片的文件夹/该文件夹下的图片)
-<br>“描述” 相当于图片显示不出时的代替文字 列如
-<br>
-      ![name](https://github.com/Hiooary/-gh-pages-Demo/blob/master/images/name.png)
+     !+[](url)
+
