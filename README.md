@@ -32,3 +32,6 @@
       
 <br>PS:哎呀，其实我不是很会，还没研究出来⊙﹏⊙b汗，配图也不会，容我再研究 研究再来更新吧
 <br>PS:今天好歹会配图了，也会托管项目了，将图片放进仓库后，再链接
+<br>链接格式： ![描述](https://github.com/ 你的用户名/你的项目名/blob/分支名/存放图片的文件夹/该文件夹下的图片)
+<br>“描述” 相当于图片显示不出时的代替文字 列如
+    ![command](https://github.com/Hiooary/-gh-pages-Demo/blob/master/images/command.png)（缩进三格，作为普通文字）
